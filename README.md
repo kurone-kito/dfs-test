@@ -1,4 +1,6 @@
-# 📄 Yarn project boilerplate
+# 🛣 The practice of the depth-first search
+
+The project is a practice of the depth-first search for [👻 Fantomo](https://github.com/kurone-kito/fantomo).
 
 ## System Requirements
 
