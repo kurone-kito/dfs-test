@@ -3,7 +3,7 @@ updates:
   directory: /
   labels:
     - dependencies
-  package-ecosystem: yarn
+  package-ecosystem: npm
   reviewers:
     - kurone-kito
   assignees:
