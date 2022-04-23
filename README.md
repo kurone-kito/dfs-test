@@ -2,6 +2,12 @@
 
 The project is a practice of the depth-first search for [👻 Fantomo](https://github.com/kurone-kito/fantomo).
 
+## TL; DR
+
+```sh
+npm ci && npm run build && npm run bin
+```
+
 ## System Requirements
 
 - Node.js Fermium LTS (`^14.19.1`)
@@ -10,6 +16,28 @@ The project is a practice of the depth-first search for [👻 Fantomo](https://g
 
 ```sh
 npm install
+```
+
+## Build (transpile)
+
+The command creates a `dist` directory with the compiled JavaScript files.
+
+```sh
+npm run build
+```
+
+When you want to build with watch on development, you can use the command.
+
+```sh
+npm start
+```
+
+## Invoke the transpiled code
+
+The command invokes the transpiled code: `dist/index.mjs`.
+
+```sh
+npm run bin
 ```
 
 ## Linting

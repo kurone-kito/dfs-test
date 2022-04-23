@@ -53,6 +53,7 @@ rules:
   import/no-extraneous-dependencies:
     - error
     - devDependencies:
+        - '**/*.config.?([cm])[jt]s'
         - '**/*.spec.?([cm])[jt]s'
   # Allow with a warning that the arbitrary reordering in the
   # import syntax. The default is to allow it unconditionally.
