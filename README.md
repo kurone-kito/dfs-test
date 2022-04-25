@@ -8,6 +8,24 @@ The project is a practice of the depth-first search for [👻 Fantomo](https://g
 npm ci && npm run build && npm run bin
 ```
 
+### Result
+
+```txt
+●●──k●┬┐
+└┼●┬┴k┼P
+┌┼┼┤┌k┼┐
+├┼●k┼k┤│
+└k┼┤├●┘╵
+●┬┼┴┼┼┬┐
+├┼┼P●P┼k
+└┴●╵kk┴╴
+```
+
+- `┼`: Route
+- `●`: Mine
+- `k`: Key
+- `P`: Spawn area
+
 ## System Requirements
 
 - Node.js Fermium LTS (`^14.19.1`)
