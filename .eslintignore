@@ -298,9 +298,5 @@ $RECYCLE.BIN/
 # JSON
 *.json
 
-# yarn v2
-.yarn/
-yarn.lock
-
 ### Text ###
 LICENSE

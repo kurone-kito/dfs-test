@@ -302,10 +302,6 @@ $RECYCLE.BIN/
 .nvmrc
 .tool-versions
 
-# Yarn v2
-.yarn
-yarn.lock
-
 ### Text ###
 LICENSE
 
