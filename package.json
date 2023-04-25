@@ -39,7 +39,7 @@
     "lodash-es": "^4.17.21"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.2.3",
+    "@commitlint/cli": "^17.6.1",
     "@commitlint/config-conventional": "^16.2.1",
     "@p-mcgowan/minimist": "^2.1.0",
     "@types/eslint": "^8.4.1",
